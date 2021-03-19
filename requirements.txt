@@ -4,7 +4,7 @@ django-celery==3.3.0
 django-cors-headers==3.0.1
 django-crispy-forms==1.7.2
 django-db-reconnect==0.0.1
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 PyMySQL==0.9.3
 python-scrapyd-api==2.1.2
 redis==3.2.1
