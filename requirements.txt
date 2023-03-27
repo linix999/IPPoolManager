@@ -7,5 +7,5 @@ django-db-reconnect==0.0.1
 djangorestframework
 PyMySQL==0.9.3
 python-scrapyd-api==2.1.2
-redis==3.2.1
+redis==4.5.3
 requests==2.22.0
