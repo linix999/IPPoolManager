@@ -8,4 +8,4 @@ djangorestframework
 PyMySQL==0.9.3
 python-scrapyd-api==2.1.2
 redis==3.2.1
-requests==2.22.0
+requests==2.31.0
